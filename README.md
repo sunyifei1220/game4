@@ -1,22 +1,21 @@
 # (TODO: your game's title)
 
-Author: (TODO: your name)
+Author: Yifei
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: The plot is newly designed 
 
-Text Drawing: (TODO: how does the text drawing in this game work? Is text precomputed? Rendered at runtime? What files or utilities are involved?)
+Text Drawing: The font file is loaded and the texts are rendered at runtime by OpenGL
 
-Choices: (TODO: how does the game store choices and narrative? How are they authored? Anything nifty you want to point out?)
-
+Choices: The game stores the choices using extra classes with linkedlist and map.
 Screen Shot:
 
 ![Screen Shot](screenshot.png)
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+press left/right or A/D to select choices.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: https://learnopengl.com/In-Practice/Text-Rendering, https://github.com/harfbuzz/harfbuzz-tutorial/
 
 This game was built with [NEST](NEST.md).
 

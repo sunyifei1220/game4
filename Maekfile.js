@@ -157,7 +157,10 @@ const common_names = [
 	maek.CPP('gl_compile_program.cpp'),
 	maek.CPP('Mode.cpp'),
 	maek.CPP('GL.cpp'),
-	maek.CPP('Load.cpp')
+	maek.CPP('Load.cpp'),
+	maek.CPP('TextRenderEngine.cpp'),
+	maek.CPP('GameLine.cpp'),
+	maek.CPP('Story.cpp')
 ];
 
 const show_meshes_names = [

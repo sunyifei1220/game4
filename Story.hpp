@@ -1,0 +1,1 @@
+void create_story(GameLine* game_line);
